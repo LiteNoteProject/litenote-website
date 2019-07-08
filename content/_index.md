@@ -40,3 +40,6 @@ You can buy LiteNote here: [Purchase LiteNote](https://buy.litenote.ronsor.pw).
 
 Only Bitcoin is accepted. Minimum purchase amount is 10 XSN (about $5 USD).
 
+<center>
+<img alt="LiteNote Logo.SVG" src="/logo.svg" width="192" height="192">
+</center>
