@@ -18,6 +18,8 @@ of LiteNote and be unable to send more spam.
 
 * Hashing Algorithm: Scrypt8K
 * Maximum Coin Supply: 9.6 billion
+* Block Time: 150 seconds
+* Ticker: XSN
 
 ### Download the LiteNote Client
 
