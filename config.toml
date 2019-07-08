@@ -1,0 +1,33 @@
+baseURL = "https://litenote.ronsor.pw"
+languageCode = "en-us"
+title = "LiteNote"
+theme = "cayman-hugo-theme"
+copyright = "Copyright (C) 2019 Ronsor Labs"
+enableEmoji = true
+
+[author]
+	name = "LiteNote Team"
+
+[params]
+	project_name = "LiteNote"
+	project_tagline = "Communications for the 21st century"
+	footer = "Copyright &copy; 2019 Ronsor Labs. LiteNote is a trademark of Ronsor Labs.<br>LiteNote is not a security and should not be used for speculation.<br>LiteNote may be illegal in your jurisdiction. Please ensure you take adequate privacy measures when using LiteNote."
+	
+
+[menu]
+	[[menu.nav]]
+		name = "Home"
+		url = "/"
+		weight = 1
+	[[menu.nav]]
+		name = "Source"
+		url = "https://github.com/litenoteproject"
+		weight = 2
+	[[menu.nav]]
+		name = "Support"
+		url = "https://yaddu.pw/c/LiteNote"
+		weight = 3
+	[[menu.nav]]
+		name = "Whitepaper"
+		url = "/whitepaper"
+		weight = 4
