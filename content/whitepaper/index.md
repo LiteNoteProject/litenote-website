@@ -9,7 +9,7 @@ draft: false
 Email has been the go-to solution for asynchronous messaging on the internet
 for over 25 years, but it has several issues that are unfixable. It is cheap
 and easy for spammers to mass-mail thousands of people, filling up their inboxes
-with useless junk. Additionally, it is difficult to stop spam, causing users to
+with useless junk. Additionally, it is difficult to even block spam, causing users to
 flock to a few large providers, destroying the decentralized aspect of email.
 
 LiteNote is a solution to the spam that plagues email. With LiteNote, spam becomes
