@@ -53,11 +53,23 @@ The LiteNote CLI Build System is the recommended way of building LiteNote Core.
 :speech_balloon: [yaddu community](https://yaddu.pw/c/LiteNote)
 </center>
 
-### Buy LiteNote
+### Get LiteNote
+
+#### Earn it
+
+You can earn LiteNote by sharing it with your friends on social media sites,
+such as Facebook and Twitter. [More information](https://yaddu.pw/c/LiteNote/post/1562691469903.c456c144).
+
+#### Buying
 
 You can buy LiteNote here: [Purchase LiteNote](https://buy.litenote.ronsor.pw).
 
 Only Bitcoin is accepted. Minimum purchase amount is 10 XSN (about $5 USD).
+
+#### Mining
+
+It's possible to mine LiteNote from the client. Just click on the "Mining" menu and then select
+"Start Mining."
 
 <center>
 <img alt="LiteNote Logo.SVG" src="/logo.svg" width="192" height="192">
