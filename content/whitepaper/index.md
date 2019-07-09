@@ -86,4 +86,4 @@ to the processing power of the network.
 
 #### Revision
 
-This is revision 1 of "LiteNote Whitepaper.md"
+This is revision 2 of "LiteNote Whitepaper.md"
