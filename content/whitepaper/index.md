@@ -50,6 +50,7 @@ supports the developers and sales of the coin.
 
 Moving forward, LiteNote is intended to:
 
+* provide translations of the LiteNote client
 * have a web-based client
 * have mobile apps
 * encrypt messages sent
