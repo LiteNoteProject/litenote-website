@@ -36,8 +36,8 @@ You probably want to use the LiteNote GUI.
 
 This doesn't include the messaging features yet.
 
-* [Windows](https://github.com/LiteNoteProject/litenote-builds/releases/download/0.17.1/litenote-core-win64.zip)
-* [Linux](https://github.com/LiteNoteProject/litenote-builds/releases/download/0.17.1/litenote-core-linux64.tar.gz)
+* [Windows](https://github.com/LiteNoteProject/litenote-builds/releases/download/v0.17.1/litenote-core-win64.zip)
+* [Linux](https://github.com/LiteNoteProject/litenote-builds/releases/download/v0.17.1/litenote-core-linux64.tar.gz)
 
 #### The Source Code
 
