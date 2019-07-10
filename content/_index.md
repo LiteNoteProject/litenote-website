@@ -62,9 +62,9 @@ such as Facebook and Twitter. [More information](https://yaddu.pw/c/LiteNote/pos
 
 #### Buying
 
-You can buy LiteNote here: [Purchase LiteNote](https://buy.litenote.ronsor.pw).
+You can buy LiteNote here: [Purchase LiteNote](https://buylitenote.serveo.net).
 
-Only Bitcoin is accepted. Minimum purchase amount is 10 XSN (about $5 USD).
+Only Bitcoin is accepted.
 
 #### Mining
 
