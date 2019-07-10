@@ -29,8 +29,8 @@ Available for 64-bit Windows and Linux. Supports macOS via [WineBottler](http://
 
 You probably want to use the LiteNote GUI.
 
-* [Windows](https://github.com/LiteNoteProject/litenote-tk/releases/download/1.0.17.1b/litenote-full-win64.zip)
-* [Linux](https://github.com/LiteNoteProject/litenote-tk/releases/download/1.0.17.1b/litenote-full-linux64.tar.gz)
+* [Windows](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b/litenote-full-win64.zip)
+* [Linux](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b/litenote-full-linux64.tar.gz)
 
 #### The LiteNote Core
 
