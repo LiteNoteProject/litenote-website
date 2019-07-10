@@ -49,8 +49,8 @@ The LiteNote CLI Build System is the recommended way of building LiteNote Core.
 
 ### Statistics and Information
 
-* [Blockchain Explorer](https://explorelitenote.serveo.net)
-
+[Blockchain Explorer](https://explorelitenote.serveo.net). If that link doesn't work, try [this](http://45.79.78.155:4502).
+  
 ### Join the Discussion
 
 <center>
