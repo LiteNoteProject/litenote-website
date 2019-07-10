@@ -47,6 +47,10 @@ The LiteNote CLI Build System is the recommended way of building LiteNote Core.
 * [LiteNote-Tk GUI](https://github.com/LiteNoteProject/litenote-tk)
 * [LiteNote Core](https://github.com/LiteNoteProject/litenote)
 
+### Statistics and Information
+
+* [Blockchain Explorer](https://explorelitenote.serveo.net)
+
 ### Join the Discussion
 
 <center>
