@@ -6,7 +6,7 @@ layout: "post"
 ---
 
 The future of communications is now. Traditional email has problems ranging from reliability to just too much spam.
-LiteNote (XSN), a cryptocurrency with support for built in email-like messaging, solves all these problems.
+LiteNote (XRN), a cryptocurrency with support for built in email-like messaging, solves all these problems.
 
 Using our new model, spam can be stopped just by ignoring it. Sending a message costs a small amount of LiteNote,
 and you get LiteNote whenever you receive a message. If you do not reply to spammers, they will eventually run out
@@ -19,7 +19,7 @@ of LiteNote and be unable to send more spam.
 * Hashing Algorithm: Scrypt8K
 * Maximum Coin Supply: 9.6 billion
 * Block Time: 150 seconds
-* Ticker: XSN
+* Ticker: XRN
 
 ### Download the LiteNote Client
 
