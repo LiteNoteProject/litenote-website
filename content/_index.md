@@ -25,7 +25,7 @@ of LiteNote and be unable to send more spam.
 
 Available for 64-bit Windows and Linux. Supports macOS via [WineBottler](http://winebottler.kronenberg.org/).
 
-**An important update has been released that implements LIP-002. [Learn More](https://github.com/LiteNoteProject/LiteNote/issues/1).
+**An important update has been released that implements LIP-002. [Learn More](https://github.com/LiteNoteProject/LiteNote/issues/1).**
 
 #### The LiteNote GUI
 
