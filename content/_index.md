@@ -25,19 +25,21 @@ of LiteNote and be unable to send more spam.
 
 Available for 64-bit Windows and Linux. Supports macOS via [WineBottler](http://winebottler.kronenberg.org/).
 
+**An important update has been released that implements LIP-002. [Learn More](https://github.com/LiteNoteProject/LiteNote/issues/1).
+
 #### The LiteNote GUI
 
 You probably want to use the LiteNote GUI.
 
-* [Windows](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b/litenote-full-win64.zip)
-* [Linux](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b/litenote-full-linux64.tar.gz)
+* [Windows](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b-new/litenote-full-win64.zip)
+* [Linux](https://github.com/LiteNoteProject/litenote-tk/releases/download/2.0.17.1b-new/litenote-full-linux64.tar.gz)
 
 #### The LiteNote Core
 
 This doesn't include the messaging features yet.
 
-* [Windows](https://github.com/LiteNoteProject/litenote-builds/releases/download/v0.17.1/litenote-core-win64.zip)
-* [Linux](https://github.com/LiteNoteProject/litenote-builds/releases/download/v0.17.1/litenote-core-linux64.tar.gz)
+* [Windows](https://github.com/LiteNoteProject/litenote-builds/releases/download/0.17.1b/litenote-core-win64.zip)
+* [Linux](https://github.com/LiteNoteProject/litenote-builds/releases/download/0.17.1b/litenote-core-linux64.tar.gz)
 
 #### The Source Code
 
