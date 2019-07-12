@@ -21,6 +21,8 @@ of LiteNote and be unable to send more spam.
 * Block Time: 150 seconds
 * Ticker: RSL
 
+**[List of LiteNote Improvement Proposals (LIP)](https://github.com/LiteNoteProject/LiteNote/issues?utf8=✓&q=LIP-)**
+
 ### Download the LiteNote Client
 
 Available for 64-bit Windows and Linux. Supports macOS via [WineBottler](http://winebottler.kronenberg.org/).
