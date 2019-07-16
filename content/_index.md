@@ -14,6 +14,9 @@ of LiteNote and be unable to send more spam.
 
 [Read our whitepaper.](/whitepaper)
 
+**Important Information: Attempts have been made to circulate fake LiteNote binaries. THIS IS THE ONLY SAFE PLACE TO DOWNLOAD LITENOTE.
+If your download contains a "litenote-qt.exe" or any DLL files it is FAKE! You should reinstall Windows if you have run that binary.**
+
 #### Technical Information
 
 * Hashing Algorithm: Scrypt8K
